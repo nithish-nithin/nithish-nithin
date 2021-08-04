@@ -3,7 +3,7 @@
 -  web app engineer
 -  front_end developer
 -  freelancing worker
--                  and like design and code user friendly website 
+- 
 - 
 
 <!---
