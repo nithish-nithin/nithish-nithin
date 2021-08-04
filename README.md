@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nithish-nithin
-- 👀 I’m interested in ...programing lang
+- 👀 I’m interested in ...programing lang and i like to design and code  user-friendly website 
 -  web app engineer
 -  front_end developer
 -  freelancing worker
