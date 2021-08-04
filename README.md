@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @nithish-nithin
 - 👀 I’m interested in ...programing lang
-- 🌱 I’m currently learning ...full tack development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- intagram id; chat_me_bby
+-  web app engineer
+-  front_end developer
+-  freelancing worker
+-                  and like design and code user friendly website 
 - 
 
 <!---
